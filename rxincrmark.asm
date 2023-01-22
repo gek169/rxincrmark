@@ -1,5 +1,8 @@
 #!/usr/bin/sisa16_asm -run
 
+//I place this file into the public domain, consider it under the CC0 license, the same as the Simple_ISA repository.
+//-Gek
+
 ..include"libc.hasm"
 ..main(1):
 lrx0 %/0x30000%;
